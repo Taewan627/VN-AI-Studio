@@ -158,3 +158,40 @@ This structure guides users toward coherent narrative pacing while preventing un
     ]
   }
 }
+
+## User Workflow
+
+1. Enter a theme and generate a story draft or demo project.
+2. Configure game settings (title, synopsis, cover image, start scene).
+3. Add characters and generate or upload expression sprites.
+4. Review and adjust the branching scene tree.
+5. Edit scene details: backgrounds, dialogue, and choices.
+6. Preview the game and export as JSON, HTML, or Ren’Py scripts.
+
+---
+
+## Expected Outcomes
+
+- **AI-Assisted Creation Support**  
+  Enables non-experts to create playable visual novel games with AI assistance.
+
+- **Rapid Prototyping**  
+  Quickly visualize and validate narrative ideas during the planning phase.
+
+- **Iterative Design Optimization**  
+  Generate multiple prototypes and select the most promising one for refinement.
+
+- **Structure-Oriented Narrative Design**  
+  Scene tree visualization encourages logical and coherent storytelling.
+
+- **Reduced Development Cost**  
+  Serverless, client-side architecture minimizes infrastructure requirements.
+
+- **Scalability**  
+  Ren’Py export allows seamless transition from prototype to commercial development.
+
+---
+
+## Credits
+
+**Created by:** Tae-wan Kim
